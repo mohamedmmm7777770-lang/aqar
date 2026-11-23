@@ -1,0 +1,59 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id              Int             @id @default(autoincrement())
+  name            String
+  email           String          @unique
+  password        String?
+  googleId        String?         @unique
+  role            String          @default("buyer") // "buyer" | "seller"
+  properties      Property[]      @relation("SellerProperties")
+  savedProperties SavedProperty[]
+  createdAt       DateTime        @default(now())
+  updatedAt       DateTime        @updatedAt
+}
+
+model Property {
+  id          Int             @id @default(autoincrement())
+  title       String
+  location    String?
+  price       Float
+  description String?
+  type        String          // "شقة" | "فيلا" | "منزل" | "عمارة" | "أرض" | "أراضي زراعية" | "أراضي كاردون مباني" | "أراضي بور" | "تجاري" | "مصانع" | "هنجر"
+  status      String          @default("نشط") // "نشط" | "قيد المراجعة" | "مباع"
+  statusType  String          @default("للبيع") // "للبيع" | "للإيجار"
+  bedrooms    Int?
+  bathrooms   Int?
+  area        Float?
+  latitude    Float?
+  longitude   Float?
+  image       String?
+  sellerId    Int
+  seller      User            @relation("SellerProperties", fields: [sellerId], references: [id])
+  savedBy     SavedProperty[]
+  views       Int             @default(0)
+  leads       Int             @default(0)
+  createdAt   DateTime        @default(now())
+  updatedAt   DateTime        @updatedAt
+}
+
+model SavedProperty {
+  id         Int      @id @default(autoincrement())
+  userId     Int
+  user       User     @relation(fields: [userId], references: [id])
+  propertyId Int
+  property   Property @relation(fields: [propertyId], references: [id])
+  createdAt  DateTime @default(now())
+
+  @@unique([userId, propertyId])
+}

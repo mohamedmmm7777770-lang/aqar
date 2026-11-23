@@ -1,0 +1,6 @@
+{
+  "name": "عقارات كفر البطيخ",
+  "description": "موقع تسويق عقاري في كفر البطيخ، دمياط.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

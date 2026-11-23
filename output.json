@@ -1,0 +1,704 @@
+[
+  {
+    "id": 1,
+    "title": "منزل بجوار مطعم أبو عيسى على الطريق السريع",
+    "location": "كفر البطيخ - بجوار",
+    "price": "١٬١٠٠٬٠٠٠",
+    "priceValue": 1100000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 100,
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "دورين، على شارع جانبي متفرع من الطريق السريع، عرض الشارع حوالي 5 متر، الشارع واصل بين الطريق الرئيسي وطريق الميناء. مميزات: سعر مناسب / موقع قريب من الطريق السريع / دورين جاهزين.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.401887,
+      "lng": 31.732242
+    }
+  },
+  {
+    "id": 2,
+    "title": "منزل ناصية وسط البلد",
+    "location": "كفر البطيخ - ناصية",
+    "price": "١٬٣٥٠٬٠٠٠",
+    "priceValue": 1350000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 85,
+    "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "دورين – ناصية، الأرضي: محلين متشطبين، الثاني: شقة متشطبة، عدادات كهرباء + مياه. مميزات: ناصية وسط البلد / محلين تجاريين متشطبين / الدور السكني متشطب بالكامل / موقع حيوي.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.398865,
+      "lng": 31.736123
+    }
+  },
+  {
+    "id": 3,
+    "title": "منزل بعد المحطة القديمة عند قهوة أبو سالم",
+    "location": "كفر البطيخ - بعد",
+    "price": "١٬٤٠٠٬٠٠٠",
+    "priceValue": 1400000,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area": 82,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "دور أرضي، 3 غرف + 2 صالة، يبعد عن الطريق السريع ~100م، عرض الشارع 6م، مباني حديثة برخصة (3 أدوار)، عدادات كهرباء + مياه، بدون غاز، طرنشات + عزل، سباكة (الشريف)، كهرباء (السويدي)، أساسات قوية جاهزة للتعلية، تشطيب جيد.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.412944,
+      "lng": 31.746966
+    }
+  },
+  {
+    "id": 4,
+    "title": "منزل شارع بعد شريف الزيني",
+    "location": "كفر البطيخ - شارع",
+    "price": "١٬٥٠٠٬٠٠٠",
+    "priceValue": 1500000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 110,
+    "image": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "دورين – دور متشطب. مساحة مناسبة / موقع كويس.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.400704,
+      "lng": 31.728615
+    }
+  },
+  {
+    "id": 5,
+    "title": "منزل في شارع أبو عبده",
+    "location": "كفر البطيخ - في",
+    "price": "١٬٥٠٠٬٠٠٠",
+    "priceValue": 1500000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 80,
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "دورين – ناصية على شارعين، عدادات كهرباء + مياه + غاز، الأرضي: محلات، الثاني: شقة سكنية، عمر متوسط.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.402461,
+      "lng": 31.735665
+    }
+  },
+  {
+    "id": 6,
+    "title": "منزل عند كوبري راشد",
+    "location": "كفر البطيخ - عند",
+    "price": "١٬٨٠٠٬٠٠٠",
+    "priceValue": 1800000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 90,
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "دورين متشطبين، عمر وسط، على شارعين، غاز طبيعي، يبعد 4 بيوت عن طريق الميناء.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.403556,
+      "lng": 31.73304
+    }
+  },
+  {
+    "id": 7,
+    "title": "فيلا على البحر قبل الحزازوة + أرض زراعية",
+    "location": "كفر البطيخ - على",
+    "price": "٢٬٣٠٠٬٠٠٠",
+    "priceValue": 2300000,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 300,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "5 قيراط ملك حر + 11 قيراط إصلاح + 22 قيراط ضريبة، فيلا 3 أدوار. مساحة كبيرة جدًا / موقع على البحر / فرصة استثمار قوية.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.439696,
+      "lng": 31.763146
+    }
+  },
+  {
+    "id": 8,
+    "title": "منزل آخر شارع الإدارة التعليمية القديمة",
+    "location": "كفر البطيخ - آخر",
+    "price": "٢٬٤٠٠٬٠٠٠",
+    "priceValue": 2400000,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 100,
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "3 أدوار، تشطيب لوكس، مباني حديثة، رخصة، غاز + كهرباء + مياه.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.398075,
+      "lng": 31.737378
+    }
+  },
+  {
+    "id": 9,
+    "title": "منزل في الثلاثيني ناصية على واجهتين",
+    "location": "كفر البطيخ - في",
+    "price": "٢٬٥٠٠٬٠٠٠",
+    "priceValue": 2500000,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 100,
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "دورين – تشطيب لوكس، مباني حديثة (2020)، ناصية على واجهتين، رخصة + نموذج 8 للدور الثالث، عدادات كهرباء + مياه + غاز لكل شقة، ثاني نمرة.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.400485,
+      "lng": 31.735524
+    }
+  },
+  {
+    "id": 10,
+    "title": "منزل بجوار جامع راشد",
+    "location": "كفر البطيخ - بجوار",
+    "price": "٣٬٠٠٠٬٠٠٠",
+    "priceValue": 3000000,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 150,
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "واجهة 11.5م، أرضي + أول + ثاني، مباني حديثة، الأرضي تشطيب لوكس كامل، الأول والثاني سباكة + كهرباء + نجارة.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.401668,
+      "lng": 31.733725
+    }
+  },
+  {
+    "id": 11,
+    "title": "فيلا بجوار مركز شباب عزبة الكحيل",
+    "location": "كفر البطيخ - بجوار",
+    "price": "٣٬٠٠٠٬٠٠٠",
+    "priceValue": 3000000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 350,
+    "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "أرض ٣٥٠ متر، صافي مباني ٢٠٠ متر، دورين، مدخلين على شارعين، عمر وسط، عدادات كهرباء + مياه.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.383987,
+      "lng": 31.734025
+    }
+  },
+  {
+    "id": 12,
+    "title": "منزل في الثلاثيني على الطريق مباشرة",
+    "location": "كفر البطيخ - في",
+    "price": "٣٬٢٠٠٬٠٠٠",
+    "priceValue": 3200000,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 130,
+    "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "3 أدوار، على الطريق الرئيسي مباشرة، خلفه 50م أرض ملحق، غاز + كهرباء + مياه، تشطيب ممتاز.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.400485,
+      "lng": 31.735524
+    }
+  },
+  {
+    "id": 13,
+    "title": "منزل أمام مصنع راشد",
+    "location": "كفر البطيخ - أمام",
+    "price": "٣٬٣٠٠٬٠٠٠",
+    "priceValue": 3300000,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 146,
+    "image": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "دورين تشطيب سوبر لوكس، ثالث مطل من الطريق الرئيسي (طريق 18)، عرض الشارع 8م، غاز + كهرباء + مياه.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.401668,
+      "lng": 31.733725
+    }
+  },
+  {
+    "id": 14,
+    "title": "منزل رابع مطل من مدخل دمياط الجديدة",
+    "location": "كفر البطيخ - رابع",
+    "price": "٤٬٠٠٠٬٠٠٠",
+    "priceValue": 4000000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 175,
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "صافي المباني ١٣٠ متر، دورين + الثالث على الصبة، عمر جديد، جراج جانبي، عدادات كهرباء + مياه.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.437585,
+      "lng": 31.713783
+    }
+  },
+  {
+    "id": 15,
+    "title": "منزل ثاني مطل من مدخل دمياط الجديدة",
+    "location": "كفر البطيخ - ثاني",
+    "price": "٤٬٢٠٠٬٠٠٠",
+    "priceValue": 4200000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 350,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "صافي المباني ١٣٠ متر، دورين، تشطيب لوكس، حديقة + مسقط خلفي 3م، فراغ من ثلاث جهات، ثاني مطل من مدخل دمياط الجديدة، عدادات كهرباء + مياه.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.437585,
+      "lng": 31.713783
+    }
+  },
+  {
+    "id": 16,
+    "title": "منزل 3 أدوار بمحلات وسندرة",
+    "location": "كفر البطيخ - 3",
+    "price": "٤٬٥٠٠٬٠٠٠",
+    "priceValue": 4500000,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 138,
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "تجاري",
+    "status": "للبيع",
+    "description": "الصافية 110 متر، 3 أدوار، الأرضي: محلات + سندرة، غاز + عدادات كهرباء + مياه في منطقة كوبري المدرسة.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.402329,
+      "lng": 31.733247
+    }
+  },
+  {
+    "id": 17,
+    "title": "منزل تاني مطل من طريق مدخل دمياط الجديدة",
+    "location": "كفر البطيخ - تاني",
+    "price": "٥٬٠٠٠٬٠٠٠",
+    "priceValue": 5000000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 175,
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "صافي المباني ١٢٠ متر، دورين، عمر جديد، تشطيب لوكس، ثاني مطل من طريق مدخل دمياط الجديدة، الأرضي: ٢ مخزن، الثاني: شقة متشطبة، عدادات كهرباء + مياه.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.437585,
+      "lng": 31.713783
+    }
+  },
+  {
+    "id": 18,
+    "title": "منزل في السنانية شارع المزلقان",
+    "location": "كفر البطيخ - في",
+    "price": "٥٬٠٠٠٬٠٠٠",
+    "priceValue": 5000000,
+    "bedrooms": 10,
+    "bathrooms": 5,
+    "area": 75,
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "5 أدوار – كل دور شقتين، مباني 2004، الدور السادس: 2 استراحة، كهرباء عداد لكل شقة، 5 عدادات مياه، غاز طبيعي.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.422552,
+      "lng": 31.796836
+    }
+  },
+  {
+    "id": 19,
+    "title": "منزل أهالي في مدخل دمياط الجديدة",
+    "location": "كفر البطيخ - أهالي",
+    "price": "٦٬٠٠٠٬٠٠٠",
+    "priceValue": 6000000,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 120,
+    "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "فيلا",
+    "status": "للبيع",
+    "description": "3 أدوار + الرابع على أعمدة (مفتوح)، نوافذ من جميع الجهات، تشطيب سوبر لوكس، داخل الحيز العمراني، يبعد عن الطريق الأسفلتي ~1كم، عرض الشارع 6م.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.437585,
+      "lng": 31.713783
+    }
+  },
+  {
+    "id": 20,
+    "title": "أرض شارع الإدارة التعليمية القديمة",
+    "location": "كفر البطيخ - شارع",
+    "price": "٤٬٨٠٠٬٠٠٠",
+    "priceValue": 4800000,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "area": 100,
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "أرض",
+    "status": "للبيع",
+    "description": "واجهة ٨ متر تقريبًا، داخل الكاردون، بها عدادات.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.398058,
+      "lng": 31.73666
+    }
+  },
+  {
+    "id": 21,
+    "title": "أرض خلف أرض القطب شمس الدين",
+    "location": "كفر البطيخ - خلف",
+    "price": "٧٢٠٬٠٠٠",
+    "priceValue": 720000,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "area": 120,
+    "image": "https://images.unsplash.com/photo-1524813686514-a57563d77965?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524813686514-a57563d77965?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1524813686514-a57563d77965?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "أرض",
+    "status": "للبيع",
+    "description": "كاردون مباني. موقع مميز في وسط البلد.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.39969,
+      "lng": 31.736305
+    }
+  },
+  {
+    "id": 22,
+    "title": "أرض بجوار ملعب أسامة رضوان",
+    "location": "كفر البطيخ - بجوار",
+    "price": "٩٤٦٬٠٠٠",
+    "priceValue": 946000,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "area": 220,
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "أرض",
+    "status": "للبيع",
+    "description": "كاردون مباني. مساحة ممتازة / موقع حيوي / جاهزة للبناء.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.403895,
+      "lng": 31.741951
+    }
+  },
+  {
+    "id": 23,
+    "title": "أرض آخر شارع الإدارة التعليمية القديمة",
+    "location": "كفر البطيخ - آخر",
+    "price": "١٬١٦٢٬٠٠٠",
+    "priceValue": 1162000,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "area": 166,
+    "image": "https://images.unsplash.com/photo-1524813686514-a57563d77965?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524813686514-a57563d77965?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1524813686514-a57563d77965?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "أرض",
+    "status": "للبيع",
+    "description": "كاردون مباني + رخصة ٣ أدوار، صافي مباني تقريبًا ١٢٠ متر، واجهة وناصية على شارعين رئيسيين.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.398058,
+      "lng": 31.73666
+    }
+  },
+  {
+    "id": 24,
+    "title": "قطعتين أرض أول البلد (كفر البطيخ)",
+    "location": "كفر البطيخ - أرض",
+    "price": "١٬٥٠٠٬٠٠٠",
+    "priceValue": 1500000,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "area": 150,
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "أرض",
+    "status": "للبيع",
+    "description": "كاملة الخدمات، طريق ١٨ بجوار مسجد أبو نزهة والمجمع الإسلامي.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.398583,
+      "lng": 31.733291
+    }
+  },
+  {
+    "id": 25,
+    "title": "قطعة أرض كاردون مقابل سور ميناء دمياط الجديدة",
+    "location": "كفر البطيخ - أرض",
+    "price": "٨٬١٢٥٬٠٠٠",
+    "priceValue": 8125000,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "area": 1250,
+    "image": "https://images.unsplash.com/photo-1524813686514-a57563d77965?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524813686514-a57563d77965?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1524813686514-a57563d77965?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "أرض",
+    "status": "للبيع",
+    "description": "مقابل سور ميناء دمياط الجديدة بجوار شركة الملح، أرض ملك حر بها منزل قديم دورين.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.439696,
+      "lng": 31.763146
+    }
+  },
+  {
+    "id": 26,
+    "title": "أرض زراعية في الهجارسة",
+    "location": "كفر البطيخ - زراعية",
+    "price": "١٢٬٠٠٠٬٠٠٠",
+    "priceValue": 12000000,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "area": 12600,
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "أرض",
+    "status": "للبيع",
+    "description": "مساحة ٣ فدادين – ملك حر، أرض طينية خصبة، ري مباشر من البحر.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.439696,
+      "lng": 31.763146
+    }
+  },
+  {
+    "id": 27,
+    "title": "مزرعة دواجن على طريق أسفلت أولاد حمام",
+    "location": "كفر البطيخ - دواجن",
+    "price": "٣٬٢٠٠٬٠٠٠",
+    "priceValue": 3200000,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "area": 800,
+    "image": "https://images.unsplash.com/photo-1582063289852-62e3ba2747f8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1582063289852-62e3ba2747f8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1582063289852-62e3ba2747f8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "type": "تجاري",
+    "status": "للبيع",
+    "description": "الحوش ٥٠٠ متر، مزرعة دواجن قائمة بالكامل، مجهزة بمعدات كاملة، نظام تبريد، عداد كهرباء ٣ فاز، عداد مياه، على طريق أسفلت مباشر.",
+    "owner": {
+      "name": "المالك",
+      "phone": "01279549739"
+    },
+    "coordinates": {
+      "lat": 31.439696,
+      "lng": 31.763146
+    }
+  }
+]
